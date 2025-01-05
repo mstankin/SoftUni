@@ -1,0 +1,15 @@
+E:\GitHub\SoftUni\05.Salary\bin\Debug\net8.0\05.Salary.exe
+E:\GitHub\SoftUni\05.Salary\bin\Debug\net8.0\05.Salary.deps.json
+E:\GitHub\SoftUni\05.Salary\bin\Debug\net8.0\05.Salary.runtimeconfig.json
+E:\GitHub\SoftUni\05.Salary\bin\Debug\net8.0\05.Salary.dll
+E:\GitHub\SoftUni\05.Salary\bin\Debug\net8.0\05.Salary.pdb
+E:\GitHub\SoftUni\05.Salary\obj\Debug\net8.0\05.Salary.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\SoftUni\05.Salary\obj\Debug\net8.0\05.Salary.AssemblyInfoInputs.cache
+E:\GitHub\SoftUni\05.Salary\obj\Debug\net8.0\05.Salary.AssemblyInfo.cs
+E:\GitHub\SoftUni\05.Salary\obj\Debug\net8.0\05.Salary.csproj.CoreCompileInputs.cache
+E:\GitHub\SoftUni\05.Salary\obj\Debug\net8.0\05.Salary.sourcelink.json
+E:\GitHub\SoftUni\05.Salary\obj\Debug\net8.0\05.Salary.dll
+E:\GitHub\SoftUni\05.Salary\obj\Debug\net8.0\refint\05.Salary.dll
+E:\GitHub\SoftUni\05.Salary\obj\Debug\net8.0\05.Salary.pdb
+E:\GitHub\SoftUni\05.Salary\obj\Debug\net8.0\05.Salary.genruntimeconfig.cache
+E:\GitHub\SoftUni\05.Salary\obj\Debug\net8.0\ref\05.Salary.dll
