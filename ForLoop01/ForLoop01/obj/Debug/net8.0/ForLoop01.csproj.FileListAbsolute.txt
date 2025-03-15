@@ -1,0 +1,14 @@
+C:\Users\Martin\source\repos\ForLoopExcersize\ForLoop01\ForLoop01\obj\Debug\net8.0\ForLoop01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\source\repos\ForLoopExcersize\ForLoop01\ForLoop01\obj\Debug\net8.0\ForLoop01.AssemblyInfoInputs.cache
+C:\Users\Martin\source\repos\ForLoopExcersize\ForLoop01\ForLoop01\obj\Debug\net8.0\ForLoop01.AssemblyInfo.cs
+C:\Users\Martin\source\repos\ForLoopExcersize\ForLoop01\ForLoop01\obj\Debug\net8.0\ForLoop01.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\ForLoopExcersize\ForLoop01\ForLoop01\bin\Debug\net8.0\ForLoop01.exe
+C:\Users\Martin\source\repos\ForLoopExcersize\ForLoop01\ForLoop01\bin\Debug\net8.0\ForLoop01.deps.json
+C:\Users\Martin\source\repos\ForLoopExcersize\ForLoop01\ForLoop01\bin\Debug\net8.0\ForLoop01.runtimeconfig.json
+C:\Users\Martin\source\repos\ForLoopExcersize\ForLoop01\ForLoop01\bin\Debug\net8.0\ForLoop01.dll
+C:\Users\Martin\source\repos\ForLoopExcersize\ForLoop01\ForLoop01\bin\Debug\net8.0\ForLoop01.pdb
+C:\Users\Martin\source\repos\ForLoopExcersize\ForLoop01\ForLoop01\obj\Debug\net8.0\ForLoop01.dll
+C:\Users\Martin\source\repos\ForLoopExcersize\ForLoop01\ForLoop01\obj\Debug\net8.0\refint\ForLoop01.dll
+C:\Users\Martin\source\repos\ForLoopExcersize\ForLoop01\ForLoop01\obj\Debug\net8.0\ForLoop01.pdb
+C:\Users\Martin\source\repos\ForLoopExcersize\ForLoop01\ForLoop01\obj\Debug\net8.0\ForLoop01.genruntimeconfig.cache
+C:\Users\Martin\source\repos\ForLoopExcersize\ForLoop01\ForLoop01\obj\Debug\net8.0\ref\ForLoop01.dll
